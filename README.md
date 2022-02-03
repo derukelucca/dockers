@@ -25,6 +25,7 @@ docker inspect NOME = informações do docker
 ```
 
 ## Imagens
-dockersamples/static-site
-hello-world
-ubuntu
+
+dockersamples/static-site  
+hello-world  
+ubuntu  
